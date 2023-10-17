@@ -1,0 +1,9 @@
+MS-Negocio
+-------------------------------------------
+gestion-clientes           8083
+gestion-productos          8081
+
+MS-Administracion
+--------------------------------------------
+server-configuracion		8888
+server-registro             8889

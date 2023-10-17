@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/gestion-clientes/pom.xml" />
         <option value="$PROJECT_DIR$/gestion-productos/pom.xml" />
         <option value="$PROJECT_DIR$/server-configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/server-registro/pom.xml" />
       </list>
     </option>
   </component>
